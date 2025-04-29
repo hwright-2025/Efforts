@@ -8,7 +8,7 @@ Each Effort addresses a group of related Use Cases and results in new ecosystem 
 
 ##### For more information about our Library structure and documentation, visit the [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md) 
 
-##### Questions on NICHD's effort list? Contact [ecosystem-help@ll.mit.edu](mailto:ecosystem-help@ll.mit.edu?subject=Ecosystem_Library)
+##### Questions on NICHD's effort list? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
 <br>
 
 ## Efforts List
