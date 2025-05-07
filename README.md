@@ -4,7 +4,7 @@
 
 # Efforts
 
-Each Effort addresses a group of related Use Cases and results in new ecosystem functionality that fulfills User Story requirements. Contact information for each effort can be found on the Effort's landing page.
+Each Effort aims to address, in whole or in part, community needs described in User Stories. Contact information for each effort can be found on the Effort's landing page.
 
 ##### For more information about our Library structure and documentation, visit the [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md) 
 
