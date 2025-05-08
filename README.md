@@ -8,7 +8,7 @@ Each Effort aims to address, in whole or in part, community needs described in U
 
 ##### For more information about our Library structure and documentation, visit the [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md) 
 
-##### Questions on NICHD's effort list? Contact [ecosystem-help@ll.mit.edu](mailto:ecosystem-help@ll.mit.edu?subject=Ecosystem_Library)
+##### Questions on NICHD's effort list? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
 <br>
 
 ## Efforts List
