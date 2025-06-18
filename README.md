@@ -11,7 +11,7 @@ Each Effort aims to address, in whole or in part, community needs described in U
 ##### Questions on NICHD's effort list? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
 <br>
 
-## Efforts Listz
+## Efforts List
 
 | E# | Effort Name | Description | Related User Stories |
 | :------------ | :------------- | :------------- | :------------- |
